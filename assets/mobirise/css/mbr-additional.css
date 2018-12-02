@@ -1072,13 +1072,18 @@ body {
 .cid-raTRLAb277 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/burger-bar-1-2000x1333.jpg");
 }
 .cid-raTRLAb277 .mbr-overlay {
   background: #232323;
 }
 .cid-raTRLAb277 .mbr-section-title {
   letter-spacing: .5rem;
+  color: #950c18;
+}
+.cid-raTRLAb277 .mbr-text,
+.cid-raTRLAb277 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-raU6k0VkiX {
   padding-top: 30px;
